@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://github.com/Dheeraj-del-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dheeraj+%F0%9F%91%8B;Builder+of+Offline+AI+%F0%9F%A7%A0;Hackathon+Hacker+%E2%9A%A1;Full+Stack+%2B+ML+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dheeraj+%F0%9F%91%8B;Hackathon+Hacker+%E2%9A%A1;Full+Stack+%2B+AI+Builder+%F0%9F%9A%80;IoT+%2B+Web+%2B+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -32,8 +32,8 @@ class Dheeraj:
     role       = "Builder | Hacker | AI Enthusiast"
     location   = "India 🇮🇳"
 
-    interests  = ["Offline AI", "Full Stack Dev", "Hackathons", "IoT"]
-    currently  = "Building AI tools that work WITHOUT the cloud"
+    interests  = ["Full Stack Dev", "Hackathons", "IoT", "AI & ML"]
+    currently  = "Building smart apps — from web to hardware"
     fun_fact   = "I think privacy > convenience. Always."
 
     def greet(self):
@@ -49,7 +49,6 @@ class Dheeraj:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,12 +60,6 @@ class Dheeraj:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**AI / ML**
-
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-orange?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-API-brightgreen?style=for-the-badge)
 
 **IoT & Hardware**
 
@@ -83,9 +76,9 @@ class Dheeraj:
 
 | Project | Description | Stack |
 |---|---|---|
-| [🧠 Astra AI](https://github.com/Dheeraj-del-cyber/offline-ai) | A fully **offline AI assistant** — chat, image analysis, document RAG, voice input, all without internet | `Python` `Flask` `Ollama` `Llama3` |
-| [🌾 Agri AI](https://github.com/Dheeraj-del-cyber/Agri-Ai) | AI-powered agricultural advisory platform with real-time crop disease detection and GPS navigation | `Python` `TensorFlow` `Flask` `Maps API` |
-| [📍 Smart Destination Alert](https://github.com/Dheeraj-del-cyber/Smart-Destination-Alert) | GPS-based proximity alert system — get notified when you're near your destination | `ESP32` `JavaScript` `Geolocation API` |
+| [🌾 Agri AI](https://github.com/Dheeraj-del-cyber/Agri-Ai) | AI-powered agricultural advisory platform with real-time crop disease detection and smart GPS navigation | `Python` `Flask` `Maps API` |
+| [📍 Smart Destination Alert](https://github.com/Dheeraj-del-cyber/Smart-Destination-Alert) | GPS-based proximity alert system — get haptic & audio alerts when you're near your destination | `ESP32` `Geolocation API` `Web` |
+| [🧠 Astra AI](https://github.com/Dheeraj-del-cyber/offline-ai) | A local AI chat assistant with document reading, voice input, and image analysis | `Python` `Flask` `LLM` |
 
 </div>
 
