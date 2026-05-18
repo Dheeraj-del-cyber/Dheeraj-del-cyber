@@ -16,8 +16,6 @@
 
   <br/><br/>
 
-  <!-- Profile views counter -->
-  <img src="https://komarev.com/ghpvc/?username=Dheeraj-del-cyber&label=Profile+Views&color=blueviolet&style=flat-square" alt="profile views"/>
 
 </div>
 
