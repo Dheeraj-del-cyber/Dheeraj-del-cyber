@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Header -->
   <a href="https://github.com/Dheeraj-del-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dheeraj+%F0%9F%91%8B;Hackathon+Hacker+%E2%9A%A1;Full+Stack+%2B+AI+Builder+%F0%9F%9A%80;IoT+%2B+Web+%2B+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dheeraj+%F0%9F%91%8B;Full+Stack+%2B+AI+Builder+%F0%9F%9A%80;IoT+%2B+Web+%2B+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 
   <br/>
