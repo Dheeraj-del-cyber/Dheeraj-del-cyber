@@ -84,8 +84,8 @@ class Dheeraj:
 | Project | Description | Stack |
 |---|---|---|
 | [🧠 Astra AI](https://github.com/Dheeraj-del-cyber/offline-ai) | A fully **offline AI assistant** — chat, image analysis, document RAG, voice input, all without internet | `Python` `Flask` `Ollama` `Llama3` |
-| [🌾 AgriAI](https://github.com/Dheeraj-del-cyber) | AI-powered agricultural advisory platform with real-time disease detection and GPS navigation | `Python` `TensorFlow` `Flask` `Maps API` |
-| [📡 IoT Monitor](https://github.com/Dheeraj-del-cyber) | Real-time ESP32 sensor dashboard with live data visualization | `ESP32` `Node.js` `WebSocket` |
+| [🌾 Agri AI](https://github.com/Dheeraj-del-cyber/Agri-Ai) | AI-powered agricultural advisory platform with real-time crop disease detection and GPS navigation | `Python` `TensorFlow` `Flask` `Maps API` |
+| [📍 Smart Destination Alert](https://github.com/Dheeraj-del-cyber/Smart-Destination-Alert) | GPS-based proximity alert system — get notified when you're near your destination | `ESP32` `JavaScript` `Geolocation API` |
 
 </div>
 
@@ -128,8 +128,8 @@ class Dheeraj:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dheeraj--del--cyber-181717?style=for-the-badge&logo=github)](https://github.com/Dheeraj-del-cyber)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dheeraj)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Koila-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-koila-7a6661303)
+[![Email](https://img.shields.io/badge/Gmail-dheerajkoila97-EA4335?style=for-the-badge&logo=gmail)](mailto:dheerajkoila97@gmail.com)
 
 </div>
 
@@ -145,19 +145,3 @@ class Dheeraj:
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
-
-<!--
-**Dheeraj-del-cyber/Dheeraj-del-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
