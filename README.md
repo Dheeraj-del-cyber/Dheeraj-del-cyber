@@ -135,6 +135,6 @@ class Dheeraj:
 
   <br/>
 
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+Build+Something+Awesome+🚀&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70)
 
 </div>
