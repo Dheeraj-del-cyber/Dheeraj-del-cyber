@@ -1,37 +1,46 @@
 <div align="center">
 
-  <!-- Professional Header -->
+  <!-- Animated Typing Header -->
   <a href="https://github.com/Dheeraj-del-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hello%2C+I%27m+Dheeraj+Koila;Full+Stack+&+AI+Engineer;IoT+%2B+ML+%2B+Web+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dheeraj+%F0%9F%91%8B;Full+Stack+%2B+AI+Builder+%F0%9F%9A%80;IoT+%2B+Web+%2B+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Professional badges -->
+  <!-- Profile badges -->
   <img src="https://img.shields.io/badge/ASTRAians-Team%20Lead-blueviolet?style=for-the-badge&logo=starship&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Hackathon-Developer-orange?style=for-the-badge&logo=devpost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hackathon-Builder-orange?style=for-the-badge&logo=devpost&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/AI%20%7C%20ML-Specialist-blue?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%7C%20ML-Enthusiast-blue?style=for-the-badge&logo=openai&logoColor=white"/>
 
   <br/><br/>
+
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I am a results-driven software engineer with experience in full stack development, IoT systems, and artificial intelligence. I focus on building practical solutions that integrate web, mobile, and hardware platforms with modern machine learning capabilities.
+```python
+class Dheeraj:
+    name       = "Dheeraj"
+    team       = "ASTRAians"
+    role       = "Builder | Hacker | AI Enthusiast"
+    location   = "India 🇮🇳"
 
-- Current role: Team Lead, ASTRAians
-- Interests: Full stack development, hackathons, IoT, AI/ML
-- Location: India
-- Professional focus: delivering scalable applications and end-to-end intelligent systems
+    interests  = ["Full Stack Dev", "Hackathons", "IoT", "AI & ML"]
+    currently  = "Building smart apps — from web to hardware"
+    fun_fact   = "I think privacy > convenience. Always."
+
+    def greet(self):
+        return "Let's build something awesome together 🚀"
+```
 
 ---
 
-## Technical Summary
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -49,6 +58,7 @@ I am a results-driven software engineer with experience in full stack developmen
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 **IoT & Hardware**
 
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge&logo=espressif&logoColor=white)
@@ -58,21 +68,21 @@ I am a results-driven software engineer with experience in full stack developmen
 
 ---
 
-## Selected Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
-| [Agri AI](https://github.com/Dheeraj-del-cyber/Agri-Ai) | AI-driven agricultural advisory platform with disease detection and navigation support | `Python` `Flask` `Maps API` |
-| [Smart Destination Alert](https://github.com/Dheeraj-del-cyber/Smart-Destination-Alert) | GPS-based proximity alert system with haptic and audio feedback | `ESP32` `Geolocation API` `Web` |
-| [Astra AI](https://github.com/Dheeraj-del-cyber/offline-ai) | Local AI assistant for document understanding, voice interaction, and image analysis | `Python` `Flask` `LLM` |
+| [🌾 Agri AI](https://github.com/Dheeraj-del-cyber/Agri-Ai) | AI-powered agricultural advisory platform with real-time crop disease detection and smart GPS navigation | `Python` `Flask` `Maps API` |
+| [📍 Smart Destination Alert](https://github.com/Dheeraj-del-cyber/Smart-Destination-Alert) | GPS-based proximity alert system — get haptic & audio alerts when you're near your destination | `ESP32` `Geolocation API` `Web` |
+| [🧠 Astra AI](https://github.com/Dheeraj-del-cyber/offline-ai) | A local AI chat assistant with document reading, voice input, and image analysis | `Python` `Flask` `LLM` |
 
 </div>
 
 ---
 
-## GitHub Metrics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -88,13 +98,29 @@ I am a results-driven software engineer with experience in full stack developmen
 
 ---
 
-## Contact
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj-del-cyber&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-del-cyber&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dheeraj--del--cyber-181717?style=for-the-badge&logo=github)](https://github.com/Dheeraj-del-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Koila-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-koila-7a6661303)
-[![Email](https://img.shields.io/badge/Email-dheerajkoila97%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:dheerajkoila97@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-dheerajkoila97-EA4335?style=for-the-badge&logo=gmail)](mailto:dheerajkoila97@gmail.com)
 
 </div>
 
@@ -102,7 +128,11 @@ I am a results-driven software engineer with experience in full stack developmen
 
 <div align="center">
 
-  > "Delivering intelligent systems that are practical, secure, and user-centric."
-  > — Dheeraj Koila
+  > *"Powerful AI should be accessible to everyone — even without the cloud."*
+  > — **Dheeraj**, ASTRAians
+
+  <br/>
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+Build+Something+Awesome+🚀&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70)
 
 </div>
