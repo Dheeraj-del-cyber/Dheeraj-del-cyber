@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Animated Typing Header -->
   <a href="https://github.com/Dheeraj-del-cyber">
@@ -119,7 +119,7 @@ class Dheeraj:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dheeraj--del--cyber-181717?style=for-the-badge&logo=github)](https://github.com/Dheeraj-del-cyber)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Koila-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-7a6661303?u)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Koila-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-7a6661303?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Gmail-dheerajkoila97-EA4335?style=for-the-badge&logo=gmail)](mailto:dheerajkoila97@gmail.com)
 </div>
 
