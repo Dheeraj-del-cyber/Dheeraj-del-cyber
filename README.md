@@ -27,7 +27,7 @@
 class Dheeraj:
     name       = "Dheeraj"
     team       = "ASTRAians"
-    role       = "Builder | Hacker | AI Enthusiast"
+    role       = "Builder | AI Enthusiast"
     location   = "India 🇮🇳"
 
     interests  = ["Full Stack Dev", "Hackathons", "IoT", "AI & ML"]
