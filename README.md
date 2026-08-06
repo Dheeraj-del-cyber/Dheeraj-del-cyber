@@ -16,7 +16,6 @@
 
   <br/><br/>
 
-
 </div>
 
 ---
@@ -34,7 +33,7 @@ class Dheeraj:
     currently  = "Building smart apps — from web to hardware"
     fun_fact   = "I think privacy > convenience. Always."
 
-    def greet(self):
+    def greet(self) -> str:
         return "Let's build something awesome together 🚀"
 ```
 
@@ -57,7 +56,6 @@ class Dheeraj:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 
 **IoT & Hardware**
 
@@ -92,10 +90,6 @@ class Dheeraj:
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dheeraj-del-cyber&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7" alt="GitHub Streak"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -121,6 +115,7 @@ class Dheeraj:
 [![GitHub](https://img.shields.io/badge/GitHub-Dheeraj--del--cyber-181717?style=for-the-badge&logo=github)](https://github.com/Dheeraj-del-cyber)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Koila-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-7a6661303?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Gmail-dheerajkoila97-EA4335?style=for-the-badge&logo=gmail)](mailto:dheerajkoila97@gmail.com)
+
 </div>
 
 ---
