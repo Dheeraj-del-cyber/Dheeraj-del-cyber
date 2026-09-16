@@ -1,129 +1,131 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://github.com/Dheeraj-del-cyber">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dheeraj+%F0%9F%91%8B;Full+Stack+%2B+AI+Builder+%F0%9F%9A%80;IoT+%2B+Web+%2B+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:22D3EE&height=220&section=header&text=Hey,%20I'm%20Dheeraj%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%2B%20AI%20%2B%20IoT%20Builder&descAlignY=55&descSize=18"/>
 
-  <br/>
+<a href="https://github.com/Dheeraj-del-cyber">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=560&lines=Building+Astra+AI+%E2%80%94+offline%2C+private+intelligence;Team+Lead+%40+ASTRAians;Hackathons+%F0%9F%A4%9D+Full+Stack+%F0%9F%A4%9D+IoT+%F0%9F%A4%9D+ML;Privacy+%3E+Convenience.+Always." alt="Typing SVG" />
+</a>
 
-  <!-- Profile badges -->
-  <img src="https://img.shields.io/badge/ASTRAians-Team%20Lead-blueviolet?style=for-the-badge&logo=starship&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hackathon-Builder-orange?style=for-the-badge&logo=devpost&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%20%7C%20ML-Enthusiast-blue?style=for-the-badge&logo=openai&logoColor=white"/>
+<br/>
 
-  <br/><br/>
+<img src="https://komarev.com/ghpvc/?username=Dheeraj-del-cyber&style=flat-square&color=a855f7&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/Dheeraj-del-cyber?style=flat-square&color=a855f7&label=Followers"/>
+<img src="https://img.shields.io/badge/Team-ASTRAians-a855f7?style=flat-square&logo=starship&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
 ## 🧑‍💻 About Me
 
 ```python
 class Dheeraj:
-    name       = "Dheeraj"
-    team       = "ASTRAians"
-    role       = "Builder | AI Enthusiast"
-    location   = "India 🇮🇳"
+    def __init__(self):
+        self.role      = "Builder · AI Enthusiast · Team Lead @ ASTRAians"
+        self.location  = "India 🇮🇳"
+        self.stack     = ["Python", "Flask", "IoT (ESP32)", "ML/LLMs"]
+        self.currently = "Building offline-first AI tools & smart hardware"
+        self.principle = "privacy > convenience — always"
 
-    interests  = ["Full Stack Dev", "Hackathons", "IoT", "AI & ML"]
-    currently  = "Building smart apps — from web to hardware"
-    fun_fact   = "I think privacy > convenience. Always."
-
-    def greet(self) -> str:
-        return "Let's build something awesome together 🚀"
+    def collab(self) -> str:
+        return "Down for hackathons, open source, and weird hardware ideas 🚀"
 ```
 
----
+<br/>
 
-## 🛠️ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
-
-### 💻 Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-### 🚀 Frameworks & Tools
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-### 🔌 IoT & Hardware
-[![ESP32](https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
+  <img src="https://skillicons.dev/icons?i=python,c,flask,nodejs,html,css,git,vscode,arduino&theme=dark" />
 </div>
 
----
+<div align="center">
+  <sub>Hardware: <b>ESP32</b> · Arduino &nbsp;|&nbsp; Focus: real-time systems, offline AI, applied ML</sub>
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[🌾 Agri AI](https://github.com/Dheeraj-del-cyber/Agri-Ai)** | AI-powered agricultural advisory platform with real-time crop disease detection and smart GPS navigation | `Python` `Flask` `Maps API` |
-| **[📍 Smart Destination Alert](https://github.com/Dheeraj-del-cyber/Smart-Destination-Alert)** | GPS-based proximity alert system — get haptic & audio alerts when you're near your destination | `ESP32` `Geolocation API` `Web` |
-| **[🧠 Astra AI](https://github.com/Dheeraj-del-cyber/offline-ai)** | A local AI chat assistant with document reading, voice input, and image analysis | `Python` `Flask` `LLM` |
+**[🌾 Agri AI](https://github.com/Dheeraj-del-cyber/Agri-Ai)**
+AI advisory platform for farmers — real-time crop disease detection + smart GPS navigation.
+`Python` `Flask` `Maps API`
 
-</div>
+</td>
+<td width="33%" valign="top">
 
----
+**[📍 Smart Destination Alert](https://github.com/Dheeraj-del-cyber/Smart-Destination-Alert)**
+GPS proximity alerts with haptic + audio feedback when you're near your destination.
+`ESP32` `Geolocation API`
+
+</td>
+<td width="33%" valign="top">
+
+**[🧠 Astra AI](https://github.com/Dheeraj-del-cyber/offline-ai)**
+Local, offline AI assistant — document reading, voice input, image analysis. No cloud required.
+`Python` `Flask` `LLM`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-del-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-del-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dheeraj-del-cyber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Dheeraj-del-cyber&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7"/>
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-del-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
+</div>
 
-## 🏆 GitHub Trophies
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <!--START_SECTION:snake-->
+  <img src="https://raw.githubusercontent.com/Dheeraj-del-cyber/Dheeraj-del-cyber/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <!--END_SECTION:snake-->
+
+  <sub>Generated automatically by a GitHub Action — see setup note below ⬇️</sub>
+</div>
+
+<br/>
+
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj-del-cyber&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
----
+<br/>
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj-del-cyber&bg_color=0d1117&color=a855f7&line=a855f7&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dheeraj--del--cyber-181717?style=for-the-badge&logo=github)](https://github.com/Dheeraj-del-cyber)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Koila-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-7a6661303?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/Gmail-dheerajkoila97-EA4335?style=for-the-badge&logo=gmail)](mailto:dheerajkoila97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dheeraj%20Koila-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheeraj-7a6661303)
+[![Gmail](https://img.shields.io/badge/Gmail-dheerajkoila97-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajkoila97@gmail.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-  > *"Powerful AI should be accessible to everyone — even without the cloud."*
-  > — **Dheeraj**, ASTRAians
+> *"Powerful AI should be accessible to everyone — even without the cloud."*
+> — **Dheeraj**, ASTRAians
 
-  <br/>
-
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+Build+Something+Awesome+🚀&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C3AED&height=120&section=footer"/>
 
 </div>
